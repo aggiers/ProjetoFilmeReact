@@ -1,0 +1,16 @@
+footer{
+    background-color: #cc3f55;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    text-align: center;
+}
+
+footer p{
+    color: azure;
+    font-weight: 550;
+    font-size: 15px;
+}
+
